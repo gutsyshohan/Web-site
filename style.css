@@ -1,0 +1,53 @@
+body{
+    margin: 0%;
+    font-family: 'Redressed', cursive;
+}
+.h3-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.high-light{
+    width: 40%;
+   float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.high-light img{
+    width: 80%;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple,pink);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.cv{
+    text-decoration: none;
+    background-image: linear-gradient(purple,pink);
+    font-weight: 700;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+}
+.banner2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
